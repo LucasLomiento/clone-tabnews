@@ -1,0 +1,27 @@
+{
+  "name": "Clone TabNews",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentação",
+        "pages": [
+          "index",
+          {
+            "group": "Começando",
+            "pages": [
+              "comecando/instalacao",
+              "comecando/primeiros-passos"
+            ]
+          },
+          {
+            "group": "Guias",
+            "pages": [
+              "guias/escrevendo-paginas",
+              "guias/organizando-o-menu"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+---
+title: "Organizando o menu"
+description: "Como o writedocs.json monta as abas e os grupos do menu."
+---
+
+O menu do site vem do `navigation` no `writedocs.json`. Ele tem uma lista de abas, e cada aba tem as
+suas páginas.
+
+```json
+{
+  "name": "Clone TabNews",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentação",
+        "pages": [
+          "index",
+          { "group": "Começando", "pages": ["comecando/instalacao", "comecando/primeiros-passos"] }
+        ]
+      }
+    ]
+  }
+}
+```
+
+## As regras
+
+- Cada item de `pages` é o caminho do arquivo **sem a extensão**, a partir de `docs/`.
+- Um item pode ser um grupo: um objeto com `group` (o nome no menu) e as `pages` dele.
+- A ordem da lista é a ordem do menu.
+- Página que não está no menu continua publicada, mas só é achada por link.
