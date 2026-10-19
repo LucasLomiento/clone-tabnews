@@ -10,3 +10,6 @@ dashboard de dev lê e publica.
 Um push na `main` que mexe em `docs/` sincroniza o conteúdo e dispara um build.
 
 O código do clone do TabNews que estava aqui continua no histórico (commit `d62f902`).
+
+
+[![Docs](https://api.dev.writedocs.io/badges/f69a9c9b-6f2d-4c90-be80-3c857c92637d.svg)](https://test-slug-dev.writedocs.io)
