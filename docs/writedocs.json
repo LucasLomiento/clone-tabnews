@@ -5,11 +5,10 @@
       {
         "tab": "Documentação",
         "pages": [
-          "index",
+          "comecando/primeiros-passos",
           {
             "group": "Começando",
             "pages": [
-              "comecando/primeiros-passos",
               "comecando/instalacao"
             ]
           },
@@ -19,7 +18,8 @@
               "guias/escrevendo-paginas",
               "guias/organizando-o-menu"
             ]
-          }
+          },
+          "index"
         ],
         "icon": "bandage"
       }
