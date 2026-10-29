@@ -9,8 +9,8 @@
           {
             "group": "Começando",
             "pages": [
-              "comecando/instalacao",
-              "comecando/primeiros-passos"
+              "comecando/primeiros-passos",
+              "comecando/instalacao"
             ]
           },
           {
@@ -20,7 +20,8 @@
               "guias/organizando-o-menu"
             ]
           }
-        ]
+        ],
+        "icon": "bandage"
       }
     ]
   }
