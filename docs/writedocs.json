@@ -25,5 +25,14 @@
         "icon": "bandage"
       }
     ]
+  },
+  "styles": {
+    "logo": "/images/writechoice-meeting-background.png",
+    "favicon": "/images/writechoice-meeting-background.png",
+    "background": {
+      "images": {
+        "light": "/images/writechoice-meeting-background.png"
+      }
+    }
   }
 }
