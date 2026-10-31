@@ -9,8 +9,7 @@
           {
             "group": "Começando",
             "pages": [
-              "comecando/instalacao",
-              "comecando/12teste-insert"
+              "comecando/instalacao"
             ]
           },
           {
@@ -29,11 +28,6 @@
   "styles": {
     "logo": "/images/writechoice-meeting-background.png",
     "favicon": "/images/writechoice-meeting-background.png",
-    "background": {
-      "images": {
-        "light": "/images/writechoice-meeting-background.png"
-      }
-    },
     "codeblocks": {
       "light": "ayu-dark"
     }
