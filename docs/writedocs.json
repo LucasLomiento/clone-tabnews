@@ -33,6 +33,9 @@
       "images": {
         "light": "/images/writechoice-meeting-background.png"
       }
+    },
+    "codeblocks": {
+      "light": "ayu-dark"
     }
   }
 }
