@@ -8,13 +8,13 @@
           {
             "group": "Começando",
             "pages": [
-              "comecando/instalacaorename"
+              "comecando/instalacaorename",
+              "guias/escrevendo-paginas"
             ]
           },
           {
             "group": "Guias",
             "pages": [
-              "guias/escrevendo-paginas",
               "guias/organizando-o-menu"
             ]
           },
