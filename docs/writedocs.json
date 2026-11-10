@@ -18,7 +18,8 @@
               "guias/organizando-o-menu"
             ]
           },
-          "index"
+          "index",
+          "guias/writedocs"
         ],
         "icon": "bandage"
       }
