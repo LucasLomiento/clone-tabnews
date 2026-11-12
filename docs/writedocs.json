@@ -19,7 +19,14 @@
             ]
           },
           "index",
-          "guias/writedocs"
+          "guias/writedocs",
+          {
+            "group": "Nova Plataforma - Sandbox",
+            "openapi": {
+              "src": "openapi.yaml",
+              "path": "/api"
+            }
+          }
         ],
         "icon": "bandage"
       }
